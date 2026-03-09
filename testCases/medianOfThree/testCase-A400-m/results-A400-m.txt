@@ -1,0 +1,2 @@
+Number of values compared to the pivot: 79800
+Number of swaps: 47840
